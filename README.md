@@ -12,12 +12,12 @@
 [![Behance][behance-shield]][behance-url]
 
 <!-- HEADER SECTION -->
-<h5 align="center">Your Name & Surname</h5>
-<h5 align="center">Student Number</h5>
+<h5 align="center" style="padding:0;margin:0;">Your Name & Surname</h5>
+<h5 align="center" style="padding:0;margin:0;">Student Number</h5>
 <h6 align="center">Subject Name & Year</h6>
-<p align="center">
 </br>
-   
+<p align="center">
+
   <a href="https://github.com/username/projectname">
     <img src="path/to/logo" alt="Logo" width="140" height="140">
   </a>
@@ -34,8 +34,7 @@
     <a href="https://github.com/username/projectname/issues">Report Bug</a>
     ·
     <a href="https://github.com/username/projectname/issues">Request Feature</a>
-  </p>
-
+</p>
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -61,6 +60,7 @@
 * [Final Outcome](#final-outcome)
     * [Mockups](#mockups)
     * [Video Demonstration](#video-demonstration)
+* [Conclusion](#conclusion)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
